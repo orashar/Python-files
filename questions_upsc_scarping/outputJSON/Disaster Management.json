@@ -1,0 +1,61 @@
+{
+    "title": "Disaster Management",
+    "child": {
+        "child1": {
+            "question": "Q. Describe various measures taken in India for Disaster Risk Reduction (DRR) before and after signing \u2018Sendai Framework for DRR (2015-30)\u2019. How is this framework different from \u2018Hyogo Framework for Action, 2005\u2019?",
+            "tags": [
+                "Disaster Management",
+                "2018",
+                "UPSC"
+            ]
+        },
+        "child2": {
+            "question": "Q. On December 2004, tsunami brought havoc on fourteen countries including India. Discuss the factors responsible for occurrence of tsunami and its effects on life and economy. In the light of guidelines of NDMA (2010) describe the mechanisms for preparedness to reduce the risk during such events.",
+            "tags": [
+                "Disaster Management",
+                "2017",
+                "UPSC"
+            ]
+        },
+        "child3": {
+            "question": "Q. The frequency of urban floods due to high intensity rainfall is increasing over the years. Discussing the reasons for urban floods, highlight the mechanisms for preparedness to reduce the risk during such events.",
+            "tags": [
+                "Disaster Management",
+                "2016",
+                "UPSC"
+            ]
+        },
+        "child4": {
+            "question": "Q. With reference to National Disaster Management Authority (NDMA) guidelines, discuss the measures to be adopted to mitigate the impact of recent incidents of cloudbursts in many places of Uttarakhand.",
+            "tags": [
+                "Disaster Management",
+                "2016",
+                "UPSC"
+            ]
+        },
+        "child5": {
+            "question": "Q. The frequency of earthquakes appears to have increased in the Indian subcontinent. However, India\u2019s preparedness for mitigating their impact has significant gaps. Discuss various aspects.",
+            "tags": [
+                "Disaster Management",
+                "2015",
+                "UPSC"
+            ]
+        },
+        "child6": {
+            "question": "Q. Drought has been recognized as a disaster in view of its spatial expanse, temporal duration, slow onset and lasting effects on vulnerable sections. With a focus on the September 2010 guidelines from the National Disaster Management Authority (NDMA), discuss the mechanisms for preparedness to deal with likely El Ni\u00f1o and La Ni\u00f1a fallouts in India.",
+            "tags": [
+                "Disaster Management",
+                "2014",
+                "UPSC"
+            ]
+        },
+        "child7": {
+            "question": "Q. How important are vulnerability and risk assessment for pre-disaster management? As an administrator, what are key areas that you would focus on in a Disaster Management System.",
+            "tags": [
+                "Disaster Management",
+                "2013",
+                "UPSC"
+            ]
+        }
+    }
+}
